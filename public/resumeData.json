@@ -8,7 +8,7 @@
       "contactmessage": "If you need to get in touch with me, contact me at any of these sources",
       "email": "shiektheimmortal@gmail.com",
       "phone": "715-441-8930",
-      "resumedownload": "Peter_Lamkin_Resume.PDF",
+      "resumedownload": "https://drive.google.com/file/d/1Kf_aed1MUvJTrs7p0LvEhcwsC1eEp8pS/view?usp=sharing",
       "social": [
         {
           "name": "linkedin",
@@ -63,34 +63,28 @@
     "portfolio": {
       "projects": [
         {
-          "title": "",
-          "category": "",
-          "image": "",
-          "url": ""
+          "title": "Burger App",
+          "category": "JS for Burgers",
+          "image": "BORGER1.png",
+          "url": "https://thehangoverburger.herokuapp.com/"
         },
         {
-          "title": "",
-          "category": "",
-          "image": "",
-          "url": ""
+          "title": "Project Grovyle",
+          "category": "API call for Calendar",
+          "image": "Front of Weather API.001.png",
+          "url": "https://project-grovyle.herokuapp.com/"
         },
         {
-          "title": "",
-          "category": "",
-          "image": "",
-          "url": ""
+          "title": "Password Generator",
+          "category": "JS password generator",
+          "image": "PasswordGen.png",
+          "url": "https://prlamkin.github.io/Password-Gen/Develop/"
         },
         {
-          "title": "",
-          "category": "",
-          "image": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "category": "",
-          "image": "",
-          "url": ""
+          "title": "Whale Tracker",
+          "category": "JS and API call for Whale Tracker",
+          "image": "whaleTracker.png",
+          "url": "https://prlamkin.github.io/Whale_Tracker/"
         }
       ]
     }
