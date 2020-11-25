@@ -1,0 +1,97 @@
+{
+    "main": {
+      "name": "Peter Lamkin",
+      "occupation": "Freelance Writer and Programmer",
+      "description": "Creative writer with the ability to make websites out of thin air",
+      "image": "",
+      "bio": "Hello there! I'm just a small city boi looking to make it as a programmer.",
+      "contactmessage": "If you need to get in touch with me, contact me at any of these sources",
+      "email": "shiektheimmortal@gmail.com",
+      "phone": "715-441-8930",
+      "resumedownload": "Peter_Lamkin_Resume.PDF",
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/peter-lamkin-8394aa1b2/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "http://github.com/PrLamkin",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "education": [
+        {
+          "school": "Hudson High School",
+          "graduated": "2017"
+        }
+      ],
+      "work": [
+        {
+          "company": "Whole Foods Market",
+          "title": "Baker",
+          "years": "2018-2020",
+          "description": "Baker the morning, charming salesman at night."
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "70%"
+        },
+        {
+          "name": "CSS",
+          "level": "95%"
+        },
+        {
+          "name": "Git",
+          "level": "100%"
+        },
+        {
+          "name": "HTML5",
+          "level": "90%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "80%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "",
+          "category": "",
+          "image": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "category": "",
+          "image": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "category": "",
+          "image": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "category": "",
+          "image": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "category": "",
+          "image": "",
+          "url": ""
+        }
+      ]
+    }
+  }
